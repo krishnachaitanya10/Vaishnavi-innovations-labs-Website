@@ -45,7 +45,7 @@ export default function Team() {
             />
           </svg>
           <h2 className="!text-[calc(1.305rem_+_0.66vw)] font-bold xl:!text-[1.8rem] !leading-[1.3] !mb-3 xl:!px-[4.5rem] lg:!px-[4.5rem]">
-            Save your time and money by choosing our professional team.
+            Our Services
           </h2>
         </div>
         {/*/column */}

@@ -23,7 +23,7 @@ export default function Process() {
             />
           </svg>
           <h2 className="!text-[calc(1.305rem_+_0.66vw)] font-bold xl:!text-[1.8rem] !leading-[1.3] !mb-4 xl:!px-[4.5rem] lg:!px-[4.5rem]">
-            Here are 3 working steps to organize our business projects.
+            Here are 4 working steps to organize our business projects.
           </h2>
         </div>
         {/* /column */}
