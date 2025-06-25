@@ -22,18 +22,20 @@ export default function Hero() {
               <div className="flex gap-4 animate__animated animate__slideInUp animate__delay-3s">
                 <Link
                   href={`/blog`}
-                  className="btn btn-lg btn-outline-white !text-white bg-[#ffffff] !border-white !border-[2px] hover:!text-[#343f52] hover:bg-[#ffffff] hover:border-white focus:shadow-[rgba(255,255,255,1)] active:!text-[#343f52] active:bg-[#ffffff] active:border-white disabled:text-white disabled:bg-transparent disabled:border-white !rounded-[50rem]"
+                  className="btn btn-lg border-[2px] border-white text-white bg-transparent hover:bg-white hover:text-[#21262c] transition-all duration-200 ease-in-out rounded-full px-6 py-3"
                 >
                   Read More
                 </Link>
 
                 <Link
                   href={`/contact`}
-                  className="btn btn-lg btn-outline-white !text-white bg-[#ffffff] !border-white !border-[2px] hover:!text-[#343f52] hover:bg-[#ffffff] hover:border-white focus:shadow-[rgba(255,255,255,1)] active:!text-[#343f52] active:bg-[#ffffff] active:border-white disabled:text-white disabled:bg-transparent disabled:border-white !rounded-[50rem]"
+                  className="btn btn-lg border-[2px] border-white text-white bg-transparent hover:bg-white hover:text-[#21262c] transition-all duration-200 ease-in-out rounded-full px-6 py-3"
                 >
                   Contact Us
                 </Link>
               </div>
+
+
             </div>
           </div>
         </div>
